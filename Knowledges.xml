@@ -1,0 +1,20 @@
+
+<?xml version="1.0"?>
+	<myportfolio>
+		<title>This is about me and my knowledge of web</title>
+		<MyKnowledges>
+			<Knowledge in="HTML" value="average"/>
+			<Knowledge in="CSS" value="average"/>
+			<Knowledge in="AJAX" value="average"/>
+			<Knowledge in="Bootstrap" value="average"/>
+			<Knowledge in="JS" value="low"/>
+			<Knowledge in="jQuery" value="average"/>
+			<Knowledge in="Bootstrap" value="average"/>
+			<Knowledge in="Angular" value="low"/>
+			<Knowledge in="PHP" value="average"/>
+			<Knowledge in="Laravel" value="average"/>
+      <Knowledge in="Python" value="low"/>
+      <Knowledge in="Django" value="low"/>
+      <Knowledge in="MySQL" value="average"/>
+		</MyKnowledges>
+	</myportfolio>
